@@ -25,8 +25,8 @@ Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Compu
 </a>
 
 <p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=HunterShanks.HunterShanks" alt="visitor badge"/>-->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=HunterShanks.HunterShanks" alt="visitor badge"/>       
 </p>
 
 <!-- Resources -->
