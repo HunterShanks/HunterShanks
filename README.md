@@ -29,13 +29,7 @@ Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Compu
     <a href="https://github.com/HunterShanks/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterShanks&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=1E10B5&hide_border=true/" />
     </a>
- TESTING
-<a href="https://github.com/HunterShanks/HunterShanks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterShanks&title_color=ffffff&text_color=c9cacc&icon_color=1E10B5&bg_color=0d1117&langs_count=3&hide_border=true" />
-</a>
-<a href="https://github.com/HunterShanks/HunterShanks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HunterShanks&count_private=true&show_icons=true&include_all_commits=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=1E10B5&bg_color=0d1117&hide_border=true" alt="Shanks' GitHub Stats" />
-</a>
+
 
 <p  align="center">
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=HunterShanks.HunterShanks" alt="visitor badge"/>-->
