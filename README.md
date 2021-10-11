@@ -29,9 +29,8 @@ Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Compu
     <a href="https://github.com/HunterShanks/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterShanks&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=1E10B5&hide_border=true/" />
     </a>
-<\p>
 
-<p  align="center">
+<!-- Visitor Counter -->
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=HunterShanks.HunterShanks" alt="visitor badge"/>-->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=HunterShanks.HunterShanks" alt="visitor badge"/>       
 </p>
@@ -42,7 +41,7 @@ Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Compu
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profiles README: https://github.com/abhisheknaiidu/awesome-github-profile-readme | https://github.com/MartinHeinz/ | https://github.com/halfrost/halfrost -->
+<!-- Awesome GitHub Profiles README: https://github.com/abhisheknaiidu/awesome-github-profile-readme | https://github.com/MartinHeinz/ | https://github.com/halfrost/halfrost | https://github.com/XynoxTheDev -->
 
 
 
