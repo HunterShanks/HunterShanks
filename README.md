@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 
-# Hey everyone 👋
+# Hey everyone :yin_yang:
 
 Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Computer Science. I have a strong passion for cybersecurity. I'm enthusiastic and always excited to learn something new.
 
