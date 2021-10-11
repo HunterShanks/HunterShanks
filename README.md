@@ -35,8 +35,7 @@ Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Compu
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-<!-- Another awesome Github Profile README: https://github.com/MartinHeinz/ -->
+<!-- Awesome GitHub Profiles README: https://github.com/abhisheknaiidu/awesome-github-profile-readme | https://github.com/MartinHeinz/ | https://github.com/halfrost/halfrost -->
 
 
 
