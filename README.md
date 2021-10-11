@@ -23,10 +23,10 @@ Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Compu
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/HunterShanks/HunterShanks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterShanks&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=1E10B5&bg_color=1d1f21&langs_count=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterShanks&title_color=ffffff&text_color=c9cacc&icon_color=1E10B5&bg_color=1d1f21&langs_count=3&hide_border=true" />
 </a>
 <a href="https://github.com/HunterShanks/HunterShanks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HunterShanks&count_private=true&show_icons=true&include_all_commits=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=1E10B5&bg_color=1d1f21" alt="Shanks' GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HunterShanks&count_private=true&show_icons=true&include_all_commits=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=1E10B5&bg_color=1d1f21&hide_border=true" alt="Shanks' GitHub Stats" />
 </a>
 
 <p  align="center">
@@ -56,17 +56,11 @@ TO BE ADDED?
 </a>
 
 
-
-
-
 <a href="https://github.com/HunterShanks/PROJECTNAME">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HunterShanks&repo=PROJECTNAME&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 </a>
-
-
-
 
 Here are some ideas to get you started:
 
