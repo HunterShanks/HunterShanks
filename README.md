@@ -5,6 +5,11 @@
 
 Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Computer Science. I have a strong passion for cybersecurity. I'm enthusiastic and always excited to learn something new.
 
+## 🔧 Currently Learning
+- Artificial Intelligence
+- Machine Learning
+- Information Retrieval & Wed Search
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
