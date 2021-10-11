@@ -11,22 +11,22 @@ Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Compu
 - Information Retrieval & Wed Search
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-MacOSX-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=1E10B5)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=1E10B5)
+![](https://img.shields.io/badge/OS-MacOSX-informational?style=flat&logo=apple&logoColor=white&color=1E10B5)
+![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=1E10B5)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1E10B5)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=1E10B5)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=1E10B5)
 
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/HunterShanks/HunterShanks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterShanks&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterShanks&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=1E10B5&bg_color=1d1f21&langs_count=2" />
 </a>
 <a href="https://github.com/HunterShanks/HunterShanks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HunterShanks&count_private=true&show_icons=true&include_all_commits=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shanks' GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HunterShanks&count_private=true&show_icons=true&include_all_commits=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=1E10B5&bg_color=1d1f21" alt="Shanks' GitHub Stats" />
 </a>
 
 <p  align="center">
