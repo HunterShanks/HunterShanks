@@ -5,7 +5,7 @@
 
 Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Computer Science. I have a strong passion for cybersecurity. I'm enthusiastic and always excited to learn something new.
 
-## 🔧 Currently Learning
+## Currently Learning
 - Artificial Intelligence
 - Machine Learning
 - Information Retrieval & Wed Search
