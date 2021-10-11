@@ -29,7 +29,7 @@ Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Compu
     <a href="https://github.com/HunterShanks/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterShanks&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=1E10B5&hide_border=true/" />
     </a>
-
+<\p>
 
 <p  align="center">
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=HunterShanks.HunterShanks" alt="visitor badge"/>-->
