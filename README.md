@@ -23,10 +23,10 @@ Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Compu
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/HunterShanks/HunterShanks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterShanks&title_color=ffffff&text_color=c9cacc&icon_color=1E10B5&bg_color=1d1f21&langs_count=3&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterShanks&title_color=ffffff&text_color=c9cacc&icon_color=1E10B5&langs_count=3&hide_border=true" />
 </a>
 <a href="https://github.com/HunterShanks/HunterShanks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HunterShanks&count_private=true&show_icons=true&include_all_commits=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=1E10B5&bg_color=1d1f21&hide_border=true" alt="Shanks' GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HunterShanks&count_private=true&show_icons=true&include_all_commits=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=1E10B5&hide_border=true" alt="Shanks' GitHub Stats" />
 </a>
 
 <p  align="center">
@@ -47,6 +47,8 @@ Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Compu
 <!--
 **HunterShanks/HunterShanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+background color? &bg_color=1d1f21
 
 TO BE ADDED? 
 <a href="https://github.com/HunterShanks/PROJECTNAME">
