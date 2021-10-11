@@ -17,10 +17,10 @@ Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Compu
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/HunterShanks">
+<a href="https://github.com/HunterShanks/HunterShanks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterShanks&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=2" />
 </a>
-<a href="https://github.com/MartinHeinz/HunterShanks">
+<a href="https://github.com/HunterShanks/HunterShanks">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HunterShanks&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shanks' GitHub Stats" />
 </a>
 
