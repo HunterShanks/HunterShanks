@@ -24,7 +24,7 @@ Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Compu
 &nbsp;
 <p align="center">
     <a href="https://github.com/HunterShanks/">
-        <img src="https://github-readme-stats.vercel.app/api?username=HunterShanks&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=1E10B5&hide_border=true/" />
+        <img src="https://github-readme-stats.vercel.app/api?username=HunterShanks&count_private=true&show_owner=true&show_icons=true&hide_rank=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=1E10B5&hide_border=true/" />
     </a>
     <a href="https://github.com/HunterShanks/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterShanks&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=1E10B5&hide_border=true/" />
