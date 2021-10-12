@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/HunterShanks/HunterShanks/main/buffer-overflow.jpg" width="666" height="275">
+<img src="https://raw.githubusercontent.com/HunterShanks/HunterShanks/main/buffer-overflow.jpg" width="666" height="250">
 
 
 # Hey everyone :yin_yang:
