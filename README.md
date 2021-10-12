@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/HunterShanks/HunterShanks/main/buffer-overflow.jpg "Header")
+![Header](https://raw.githubusercontent.com/HunterShanks/HunterShanks/main/buffer-overflow.jpg =666x375 "Header")
 
 
 # Hey everyone :yin_yang:
