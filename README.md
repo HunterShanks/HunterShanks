@@ -9,7 +9,7 @@ Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Compu
 ## Currently Learning
 - Artificial Intelligence
 - Machine Learning
-- Information Retrieval & Wed Search
+- Information Retrieval & Web Search
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=1E10B5)
