@@ -2,6 +2,19 @@
     <img src="https://raw.githubusercontent.com/HunterShanks/HunterShanks/main/buffer-overflow.jpg" width="666" height="250">
 </p>
 
+```c
+#include <string.h>
+void foo(char *bar) {
+   char c[12];
+   strcpy(c, bar);  // no bounds checking
+}
+
+int main(int argc, char **argv) {
+   foo(argv[1]);
+   return 0;
+}
+```
+
 # Hey everyone :yin_yang:
 
 Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Computer Science. I have a strong passion for cybersecurity. I'm enthusiastic and always excited to learn something new.
