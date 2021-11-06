@@ -49,6 +49,7 @@ Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Compu
 </p>
 
 <!-- Resources -->
+<!-- Stack overflow code snippet: https://en.wikipedia.org/wiki/Stack_buffer_overflow -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
