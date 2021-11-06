@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HunterShanks/HunterShanks/main/buffer-overflow.jpg" width="666" height="250">
-</p>
-
 ```c
 #include <string.h>
 void foo(char *bar) {
@@ -13,6 +9,7 @@ int main(int argc, char **argv) {
    foo(argv[1]);
    return 0;
 }
+// 0x41414141
 ```
 
 # Hey everyone :yin_yang:
@@ -73,6 +70,14 @@ TO BE ADDED?
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HunterShanks&repo=PROJECTNAME&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 </a>
+
+
+<p align="center">
+
+    <img src="https://raw.githubusercontent.com/HunterShanks/HunterShanks/main/buffer-overflow.jpg" width="666" height="250">
+
+</p>
+
 
 
 <a href="https://github.com/HunterShanks/PROJECTNAME">
