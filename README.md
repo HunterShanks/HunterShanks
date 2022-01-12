@@ -20,7 +20,7 @@ Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Compu
 - Information System Security
 - tryhackme
 
-## Courses that should not be taking simultaneously
+## Courses that should not be taken simultaneously
 - Artificial Intelligence
 - Machine Learning
 - Information Retrieval & Web Search
@@ -32,7 +32,7 @@ Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Compu
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1E10B5)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=1E10B5)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=1E10B5)
-
+![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=1E10B5)
 
 ## &#x1f4c8; GitHub Stats
 &nbsp;
