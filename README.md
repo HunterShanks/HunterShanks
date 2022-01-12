@@ -2,7 +2,7 @@
 #include <string.h>
 void foo(char *bar) {
    char c[12];
-   strcpy(c, bar);  // no bounds checking
+   strcpy(c, bar);  // no bounds checking for string length
 }
 
 int main(int argc, char **argv) {
