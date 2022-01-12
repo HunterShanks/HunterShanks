@@ -12,11 +12,15 @@ int main(int argc, char **argv) {
 // 0x41414141
 ```
 
-# Hey everyone :yin_yang:
+# whoami :yin_yang:
 
 Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Computer Science. I have a strong passion for cybersecurity. I'm enthusiastic and always excited to learn something new.
 
 ## Currently Learning
+- Information System Security
+- tryhackme
+
+## Courses that should not be taking simultaneously
 - Artificial Intelligence
 - Machine Learning
 - Information Retrieval & Web Search
