@@ -17,8 +17,8 @@ int main(int argc, char **argv) {
 Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Computer Science. I have a strong passion for cybersecurity. I'm enthusiastic and always excited to learn something new.
 
 ## Currently Learning
-- Information System Security
-- tryhackme
+- Reverse Engineering
+- Binary Exploitation
 
 ## Courses that should not be taken simultaneously
 - Artificial Intelligence
